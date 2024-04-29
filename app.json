@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "AAC-Demo",
+    "slug": "AAC-Demo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "AAC-Demo"
+}
