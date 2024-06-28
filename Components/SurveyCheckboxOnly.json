@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Which of the following symptoms do you experience?",
+    "type": "checkbox",
+    "options": ["Headache", "Back pain", "Body pain", "Trouble falling asleep"],
+    "eligibleFields": [""]
+  },
+  {
+    "question": "Do you have any hereditary conditions/diseases?",
+    "type": "checkbox",
+    "options": ["High blood pressure", "Diabetes", "Hemophilia", "Thalassemia"],
+    "eligibleFields": ["Diabetes"]
+  }
+]
